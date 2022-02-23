@@ -6,4 +6,4 @@
 - Then run npm start
 
 ## Screenshot
-! [screenshot](./public/Screen Shot 2022-02-22 at 7.08.27 PM.png)
+![appscreenshot](./public/appscreenshot.png)
